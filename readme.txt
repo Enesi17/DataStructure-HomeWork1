@@ -1,2 +1,2 @@
-Doc klasorunde N.txt buyuk bir file ve Numbers.txt odev dosyandaki file var. 
-Test amacli onlari kullanabilirsiniz
+In doc folder there are two .txt files: Numbers.txt and N.txt. 
+They can be used for testing the program.
